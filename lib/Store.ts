@@ -8,7 +8,6 @@ export class Store<S, A extends Action> {
 
   reduce (state: S, action: A): S {
     throw new Error("Please implement a reduce function in your reducer")
-    return state
   }
 
   dispatch(action: A) {

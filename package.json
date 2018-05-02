@@ -10,5 +10,9 @@
     "start": "ts-node main.ts"
   },
   "author": "Jannic Beck <jannicbeck@gmail.com> (https://github.com/JannicBeck)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^6.0.2",
+    "typescript": "^2.8.3"
+  }
 }
