@@ -1,0 +1,14 @@
+{
+  "name": "redux-oop",
+  "version": "1.0.0",
+  "description": "A fun little project implementing redux the OOP way",
+  "main": "main.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "author": "Jannic Beck <jannicbeck@gmail.com> (https://github.com/JannicBeck)",
+  "license": "MIT"
+}
